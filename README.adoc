@@ -1,0 +1,3 @@
+# AS2-Connector
+AS2 Connector Module for the portx demo site. 
+This is a side component, linked from the portx home page.
